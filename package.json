@@ -21,8 +21,8 @@
     "url": "https://github.com/paulohp/rogers.js/issues"
   },
   "homepage": "https://github.com/paulohp/rogers.js",
-  "dependencies":{
-    "request": "2.33.0",
+  "dependencies": {
+    "request": "2.82.0",
     "bluebird": "1.1.0"
   }
 }
